@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">Junior Frontend Developer</h3>
 
-- 🔭 I’m currently working on **some react projects**
+- 🔭 I’m currently working on **System Engineer**
 
 - 🌱 I’m currently learning **React.js**
 
