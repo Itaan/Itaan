@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">Junior Frontend Developer</h3>
 
 - 🔭 I’m currently working as **System Engineer**
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **frontend development**
+- 🌱 I’m currently learning **Node.js**
 
 - 🤝 I’m looking for help with **expanding my professional experience**
 
-- 👨‍💻 All of my projects are available at [https://szymorek.netlify.app/](https://szymorek.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript, React.js, Nest.js**
 
 - 📫 How to reach me **oskarszymorek1999@gmail.com**
 
