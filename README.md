@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as **System Engineer**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for help with **expanding my professional experience**
 
