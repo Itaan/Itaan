@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 
-- 🔭 I’m currently working as **System Engineer**
+- 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 🤝 I’m looking for help with **expanding my professional experience**
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript, React.js, Nest.js**
+- 💬 Ask me about **C#, .NET WinForm, ASP.NET Core, Java 8, JavaScript, PL/SQL, SQL**
 
 - 📫 How to reach me **oskarszymorek1999@gmail.com**
 
